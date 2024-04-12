@@ -20,8 +20,11 @@ The project's data lifecycle involves acquiring user Spotify data through API, s
 
 9. Methods Employed:
   •	Data Acquisition and Processing: Utilizing Spotify's Web API to gather user-specific music data.
+
   •	Data Storage: Storing track information in CSV format for further analysis.
+  
   •	Data Usage: Employing Power BI for dynamic dashboards with personalized insights and recommendations.
+  
 
 11. Limitations and Challenges:
 While Tempofy offers valuable insights, it faces limitations such as a maximum of 50 tracks per playlist analysis and reliance on Spotify exclusivity. Future iterations may address these challenges by implementing database solutions for scalability and enhancing user interface for better interaction.
