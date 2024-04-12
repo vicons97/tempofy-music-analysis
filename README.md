@@ -20,11 +20,11 @@ The project's data lifecycle involves acquiring user Spotify data through API, s
 
 5. Methods Employed:
     
-  •	Data Acquisition and Processing: Utilizing Spotify's Web API to gather user-specific music data.
+      •	Data Acquisition and Processing: Utilizing Spotify's Web API to gather user-specific music data.
 
-  •	Data Storage: Storing track information in CSV format for further analysis.
+      •	Data Storage: Storing track information in CSV format for further analysis.
   
-  •	Data Usage: Employing Power BI for dynamic dashboards with personalized insights and recommendations.
+      •	Data Usage: Employing Power BI for dynamic dashboards with personalized insights and recommendations.
   
 
 6. Limitations and Challenges:
